@@ -1,7 +1,7 @@
 package BasicsOfJava;
 
 public class arithmetic {
-    static void main() {
+   public static void main() {
         int x = 5;
         int y = 2;
         System.out.println(x+y);

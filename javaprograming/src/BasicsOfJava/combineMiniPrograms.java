@@ -1,7 +1,7 @@
 package BasicsOfJava;
 
 public class combineMiniPrograms  {
-    static void main() {
+  public   static void main() {
 
         // program to calculate area of circle...
         double radius = 10;

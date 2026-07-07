@@ -1,7 +1,7 @@
 package javaInput;
 import java.util.Scanner;
 public class ModulusOperator {
-    static void main(String[] args) {
+  public  static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the Dividend :");
         int a = sc.nextInt();

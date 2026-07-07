@@ -1,7 +1,7 @@
 package javaInput; //IT Signifies that ki we are writing code in java input name folder..
 import java.util.Scanner;
 public class AreaOfCircleWithInput {
-    static void main(String[] args) {
+   public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); //sc ki jagah we can try anything..
         System.out.println("Enter radius :");
         int radius = sc.nextInt();

@@ -1,7 +1,7 @@
 package BasicsOfJava;
 
 public class variables {
-    static void main() {
+  public   static void main() {
         int x;
         x = 500;
 

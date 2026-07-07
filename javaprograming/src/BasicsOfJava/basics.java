@@ -1,7 +1,7 @@
 package BasicsOfJava;
 
 public class basics {
-    static void main() {
+    public static void main() {
         System.out.println("Hello utkarsh ");
         System.out.println(" hii ");
     }

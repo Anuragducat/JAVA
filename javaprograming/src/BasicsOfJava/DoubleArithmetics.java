@@ -1,7 +1,7 @@
 package BasicsOfJava;
 
 public class DoubleArithmetics {
-    static void main() {
+  public   static void main() {
         double x = 5;
         double y = 2;
         System.out.println(x+y);

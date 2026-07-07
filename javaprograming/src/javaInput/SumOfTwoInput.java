@@ -2,7 +2,7 @@
 package javaInput;
 import java.util.Scanner;
 public class SumOfTwoInput {
-    static void main(String[] args) {
+  public   static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the first number :");
         int x = sc.nextInt();
